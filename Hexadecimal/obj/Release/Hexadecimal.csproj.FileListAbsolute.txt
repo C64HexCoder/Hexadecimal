@@ -1,0 +1,6 @@
+C:\Users\yossi\source\repos\Hexadecimal\Hexadecimal\bin\Release\Hexadecimal.dll
+C:\Users\yossi\source\repos\Hexadecimal\Hexadecimal\bin\Release\Hexadecimal.pdb
+C:\Users\yossi\source\repos\Hexadecimal\Hexadecimal\obj\Release\Hexadecimal.csproj.AssemblyReference.cache
+C:\Users\yossi\source\repos\Hexadecimal\Hexadecimal\obj\Release\Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\yossi\source\repos\Hexadecimal\Hexadecimal\obj\Release\Hexadecimal.dll
+C:\Users\yossi\source\repos\Hexadecimal\Hexadecimal\obj\Release\Hexadecimal.pdb
